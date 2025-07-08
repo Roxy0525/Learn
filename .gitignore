@@ -1,0 +1,21 @@
+# Скомпилированные файлы
+*.class
+
+# Папки сборки
+out/
+build/
+
+# Настройки IntelliJ IDEA
+.idea/
+*.iml
+
+# Логи и временные файлы
+*.log
+*.tmp
+*.swp
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+
+
